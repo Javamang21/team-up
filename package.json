@@ -1,0 +1,26 @@
+{
+  "name": "team-up",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javamang21/team-up.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javamang21/team-up/issues"
+  },
+  "homepage": "https://github.com/Javamang21/team-up#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "jest": "^27.1.0"
+  }
+}
