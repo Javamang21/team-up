@@ -1,21 +1,21 @@
 function managerCard(manager) {
     return `
-    <div class="card mb-3 col-10" style="max-width: 18rem;">
+    <div class="card mb-3 col-10">
     <div class="card-header manager-color">
     <h3 class='text-center'> ${manager.name}</h3>
     <h4 class='text-center'> <i class="fas fa-mug-hot"></i> Manager </h4>
     </div>
     <div class="card-body">
     <p class="id card-text text-center"> ID: ${manager.id}</p>
-    <p class="email card-text text-center"> Email- <a href="mailto:${manager.email}"> ${manager.email}</a></p>
-    <p class="officenum card-text text-center"> Office Number- ${manager.officeNumber}</p>
+    <p class="email card-text text-center"> Email: <a href="mailto:${manager.email}"> ${manager.email}</a></p>
+    <p class="officenum card-text text-center"> Office Number: ${manager.officeNumber}</p>
     </div>
   </div>`
 };
 
 function engineerCard(engineer) {
     return `
-    <div class="card bg-success mb-3" style="max-width: 18rem;">
+    <div class="card mb-3" style="max-width: 18rem;">
     <div class="card-header">
     <h3 class='text-center'> ${engineer.name}</h3>
     <h4 class='text-center'> <i class="fas fa-glasses"></i> Engineer </h4>
@@ -29,7 +29,7 @@ function engineerCard(engineer) {
 }
 function internCard(intern) {
     return `
-    <div class="card bg-success mb-3" style="max-width: 18rem;">
+    <div class="card mb-3" style="max-width: 18rem;">
     <div class="card-header">
     <h3 class='text-center'> ${intern.name}</h3>
     <h4 class='text-center'> <i class="fas fa-user-graduate"></i> Intern! </h4>
