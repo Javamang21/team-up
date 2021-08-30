@@ -1,5 +1,10 @@
 header {
-    background-color: mediumspringgreen;
-    padding: 20px;
+    background-color: lavender;
+    padding: 35px;
 };
+
+.manager-color {
+    color: red;
+}
+
 
