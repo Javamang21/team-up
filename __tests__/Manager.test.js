@@ -8,5 +8,4 @@ test('that Manager returns an Object', () => {
     expect(employee.getEmail()).toEqual(expect.any(String));
     expect(employee.getRole()).toBe("Manager");
     expect(employee.getOfficeNumber()).toEqual(expect.any(Number));
-    expect(manager.getTeamTitle()).toEqual(expect.any(String));
 });
