@@ -1,6 +1,5 @@
 # team-up
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-##
 If a license is present click the badge above to learn more.
 ---
 ## Table Of Contents
