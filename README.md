@@ -1,7 +1,7 @@
 # team-up
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 ##
-If a license is present click the badge above to learn more. 
+If a license is present click the badge above to learn more. ![Screen Shot 2021-08-29 at 11 54 17 PM](https://user-images.githubusercontent.com/85512241/131283250-9133f66b-da37-4555-b114-af45b4335fd4.png)
 
 ---
 ## Table Of Contents
@@ -13,6 +13,8 @@ If a license is present click the badge above to learn more.
 * [Usage Information](#usage)
 
 * [Languages Used](#languages)
+
+* [Demonstration Video Link](#demo)
 
 * [Sample HTML file that was generated using this App](#sample)
 
@@ -48,12 +50,18 @@ Once you follow the instructions, you will be prompted with a series of question
 
 ---
 
+<a id="demo"></a>
+## Demonstration Video Link
+https://drive.google.com/file/d/1cSvVHTif6F0j2n5ByUjg_8NhlpmhFuWl/view
+
 <a id='sample'></a>
 ## Sample HTML file that was generated using this App / ScreenShot
 
+![Screen Shot 2021-08-29 at 11 54 17 PM](https://user-images.githubusercontent.com/85512241/131283285-26b0c2c2-44d7-46d2-b176-9f88ecc1bcfa.png)
+
 [This is a link that will take you to the sample HTML file that was created using this application](https://github.com/Javamang21/team-up/blob/main/dist/index.html)
 
-
+---
 
 <a id="test"></a>
 ## How to test it
