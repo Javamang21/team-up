@@ -12,7 +12,9 @@ If a license is present click the badge above to learn more.
 
 * [Usage Information](#usage)
 
-* [Contribution Guidelines](#contribution)
+* [Languages Used](#languages)
+
+* [Sample HTML file that was generated using this App](#sample)
 
 * [How to test it](#test)
 
@@ -38,11 +40,20 @@ Once you follow the instructions, you will be prompted with a series of question
 
 ---
 
-<a id="contribution"></a>
-## Contribution Guidelines
-N/A at the moment. But anyone can feel free to use this code. 
+<a id="languages"></a>
+## Languages Used
+- Node.js
+- Javascript
+- HTML 
 
 ---
+
+<a id='sample'></a>
+## Sample HTML file that was generated using this App / ScreenShot
+
+[This is a link that will take you to the sample HTML file that was created using this application](https://github.com/Javamang21/team-up/blob/main/dist/index.html)
+
+
 
 <a id="test"></a>
 ## How to test it
